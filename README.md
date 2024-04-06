@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">歡迎來到SiroKu的GitHub</h1>
+<h3 align="left">About me</h3>
+<p align="left">嗨，我是Siroku，目前就讀於國立高雄大學資工系(2022/9)，這裡放一些自己開發的一些專案或學校小組的專題，主要使用Python和JavaScript，平常練題都用LeetCode。</h3>
 
-<!--
-**SiroKu1006/Siroku1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- https://leetcode.card.workers.dev/ -->
+![LeetCode Stats](https://leetcode.card.workers.dev/Siroku?theme=dark&font=patrick_hand&extension=activity)
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Project</h3>
+* 2
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<h3 align="left">Viewers</p>
+
+<!-- ![viewer](https://count.getloli.com/get/@Siroku1006?theme=rule34) -->
