@@ -45,6 +45,9 @@
 ![viewer](https://count.getloli.com/get/@Siroku1006?theme=rule34)
 
 
-<img src="https://raw.githubusercontent.com/SiroKu1006/SiroKu1006/output/snake.svg" alt="Snake animation" />
+<div style="display: flex; justify-content: left;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SiroKu1006&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=SiroKu1006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
