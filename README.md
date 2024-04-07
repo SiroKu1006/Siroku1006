@@ -21,7 +21,7 @@
         <li>2021/10 大學程式設計先修檢測(APCS) 觀念4 實作3
         <li>2022/12 大學程式能力檢定(CPE) 三題
         <li>2023/05 國立臺灣大學資訊管理學系-PDAO競賽
-        <li>2023/09~ 國立高雄大學資工系學生會 系學會資訊長
+        <li>2023/09~ 國立高雄大學資工系系學會 資訊長
         <li>2023/09~ NUK Google Developer Student Club (GDSC) - Core Team Member
         <li>2023/12 GDSC-NUK 簡單上手Python入門教學 講者
     </ul>
