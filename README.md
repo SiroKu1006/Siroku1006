@@ -3,7 +3,7 @@
 ![image](https://i.imgur.com/2gn5EI8.jpg)
 
 <h2 align="left">About me</h3>
-<p align="left">嗨，我是Siroku，目前(2024/04)就讀於國立高雄大學資工系，這裡放一些自己開發的一些專案或學校小組的專題，目前主要使用Python和JavaScript，最近在練Cpp、Java、Html/css，平常練題都用LeetCode。</h3>
+<p align="left">嗨，我是Siroku，目前(2024/07)就讀於國立高雄大學資工系，這裡放一些自己開發的一些專案或學校小組的專題，目前主要使用Python和JavaScript，最近在練Cpp、Java、Html/css，平常練題都用LeetCode。</h3>
 
 
 ###
@@ -21,7 +21,7 @@
         <li>2021/10 大學程式設計先修檢測(APCS) 觀念4 實作3
         <li>2022/12 大學程式能力檢定(CPE) 三題
         <li>2023/05 國立臺灣大學資訊管理學系-PDAO競賽
-        <li>2023/09~ 國立高雄大學資工系系學會 資訊長
+        <li>2023/09~2024/06國立高雄大學資工系系學會 資訊長
         <li>2023/09~ NUK Google Developer Student Club (GDSC) - Core Team Member
         <li>2023/12 GDSC-NUK 簡單上手Python入門教學 講者
     </ul>
@@ -36,6 +36,9 @@
 <h3 align="left">Team</h3>
     <ul>
         <li><a href="https://github.com/penguin72487/Tic-Tac-Toe">Tic-Tac-Toe 井字遊戲</a></li>
+    </ul>
+    <ul>
+        <li><a href="https://github.com/peipei930725/Java_final">共同支付系統</a></li>
     </ul>
 
 ###
