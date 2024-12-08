@@ -3,7 +3,7 @@
 ![image](https://i.imgur.com/2gn5EI8.jpg)
 
 <h2 align="left">About me</h3>
-<p align="left">嗨，我是Siroku，目前(2024/04)就讀於國立高雄大學資工系，這裡放一些自己開發的一些專案或學校小組的專題，目前主要使用Python和JavaScript，最近在練Cpp、Java、Html/css，平常練題都用LeetCode。</h3>
+<p align="left">嗨，我是Siroku，目前(2024/07)就讀於國立高雄大學資工系，這裡放一些自己開發的一些專案或學校小組的專題，目前主要使用Python和JavaScript，最近在練Cpp、Java、Html/css，平常練題都用LeetCode。</h3>
 
 
 ###
